@@ -4,6 +4,8 @@ Super Token is a simple plugin for **Glyphs App 3** that extends the standard **
 
 In particular, Super Tokens make it possible to **replace, remove, or rename parts of glyph names** directly inside token expressions. This enables dynamic classes that automatically stay up to date when glyphs are added or removed.
 
+![Screenshot of a Glyphs Feature window using Super Token](https://github.com/e8ccfb5a-3761-42ba-860f-ba3b2655c7e2](https://github.com/BaGsn/SuperToken/blob/main/demo.png)
+
 ---
 
 ## Syntax
