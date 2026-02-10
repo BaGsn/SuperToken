@@ -17,9 +17,9 @@
 	<key>CFBundleVersion</key>
 	<string>1</string> <!-- 123 -->
 	<key>UpdateFeedURL</key>
-	<string>____OnlineUrlToThisPlist____</string>
+	<string>https://github.com/BaGsn/SuperToken/blob/main/SuperToken.glyphsPlugin/Contents/Info.plist</string>
 	<key>productPageURL</key>
-	<string>https://bloomtype.com/lab/super-token</string>
+	<string>https://github.com/BaGsn/SuperToken</string>
 	<key>productReleaseNotes</key>
 	<string>First version</string>
 	<key>NSHumanReadableCopyright</key>
